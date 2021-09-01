@@ -193,7 +193,7 @@ client.focused #353439 #696969 #bd79b8
 exec --no-startup-id nitrogen --restore
 
 #Compositor
-exec --no-startup-id compton --backend glx --paint-on-overlay --vsync opengl-swc --active-opacity 0.1 --inactive-opacity 0.1
+exec --no-startup-id compton --backend glx --paint-on-overlay --vsync opengl-swc 
  
 #Polybar
 exec_always --no-startup-id $HOME/.config/polybar/start.sh 

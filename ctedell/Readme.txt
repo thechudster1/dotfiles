@@ -25,3 +25,5 @@ Other information:
 
 These files are configured for the base version of i3 without gaps. The system readouts in polybar are configured for a Dell Latitude 3490.
 
+The install script is install.sh and needs to be made into an executable with "chmod a+x" before it can work. 
+
